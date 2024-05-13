@@ -30,3 +30,4 @@ jobs:
           cmake ..
           make
           ./src/calculator add 10 5
+          ./src/calculator car 5
